@@ -50,6 +50,13 @@ function SelectOnchange() {
             myText.innerText = "1988+1+9+8+8+1+1+2+7年，\n\
             高考三級資訊處理榜首";
             myText2.innerText = "";
+        } else if (myValue === "2112") {
+            myText.innerText = "天界公務員，\n\
+            天二代，來人間歷練，\n\
+            有資格掌管天界，\n\
+            5%約等於人間公務員，\n\
+	    再5%等於天界公務員(不含地府)\n";
+            myText2.innerText = "";
         } else {
             myText.innerText = "";
             myText2.innerText = "";
