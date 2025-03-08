@@ -56,24 +56,22 @@ function SelectOnchange() {
             開第一槍，爆發台海戰爭，\n\
             留下龍樹諒訊息給後人";
         } else if (myValue === "2027") {
-            myText.innerText = "";
-            myText2.innerText = "同年台灣回歸，\n\
-            留下逢甲碟仙訊息給後人，\n\
-            鋒兄版本一(111-93=18大→21大=2027，三=before ww3)，\n\
+            myText.innerText = "鋒兄版本一(111-93=18大→21大=2027，三=before ww3)，\n\
             https://wwwc.moex.gov.tw/main/Exam/FileHandler.ashx?F=111&N=01348&T=L&Code=111190&Sequence=1\n\
 	    鋒兄版本二，\n\
-	    1988+1+9+8+8+1+1+2+7年~1988+1+9+8+9+0+8+3+1年(鋒兄初戀)"
+	    1988+1+9+8+8+1+1+2+7年~1988+1+9+8+9+0+8+3+1年(鋒兄初戀)";
+            myText2.innerText = "同年台灣回歸，\n\
+            留下逢甲碟仙訊息給後人"
         }else if (myValue === "2029") {
-            myText.innerText = "";
-            myText2.innerText = "同年爆發第三次世界大戰，\n\
-            留下印度神童訊息給後人，\n\
-            鋒兄版本(111→118=2029，三=ww3)，\n\
+            myText.innerText = "鋒兄版本(111→118=2029，三=ww3)，\n\
             https://wwwc.moex.gov.tw/main/Exam/FileHandler.ashx?F=111&N=00372&T=L&Code=111090&Sequence=1";
+            myText2.innerText = "同年爆發第三次世界大戰，\n\
+            留下印度神童訊息給後人";
         }else if (myValue === "2035") {
-            myText.innerText = "";
+            myText.innerText = "紫微聖人";
             myText2.innerText = "末劫年或封神榜，\n\
             留下五公經和聖經啟示錄訊息給後人，\n\
-            The Second Advent或紫微聖人，\n\
+            The Second Advent，\n\
             參考資料，\n\
             http://www.boder.idv.tw/ghud006.htm";
         } else if (myValue === "2112") {
