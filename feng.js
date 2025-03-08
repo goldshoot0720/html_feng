@@ -74,7 +74,7 @@ function SelectOnchange() {
             留下逢甲碟仙訊息給後人"
         }else if (myValue === "2029") {
             myText.innerText = "鋒兄版本(111→118=2029，三=ww3)，\n\
-            https://wwwc.moex.gov.tw/main/Exam/FileHandler.ashx?F=111&N=00372&T=L&Code=111090&Sequence=1";
+            https://imgur.com/a/KmIQKNp";
             myText2.innerText = "同年爆發第三次世界大戰(歐洲戰場：波蘭，德國)，\n\
             留下印度神童訊息給後人";
         }else if (myValue === "2032") {
