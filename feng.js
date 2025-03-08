@@ -96,7 +96,8 @@ function SelectOnchange() {
             myText2.innerText = "天堂人口無上限，\n\
             地獄人口無上限，\n\
             人間人口總量管制，參考指標五億，\n\
-            請抽號碼牌，請按號碼排隊投胎";
+            請抽號碼牌，請按號碼排隊投胎，
+            新地球伺服器A~新地球伺服器Z，人口總數130億人";
         } 
         else if (myValue === "2112") {
             myText.innerText = "天界公務員，\n\
