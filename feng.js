@@ -49,7 +49,19 @@ function SelectOnchange() {
         } else if (myValue === "2025") {
             myText.innerText = "1988+1+9+8+8+1+1+2+7年，\n\
             高考三級資訊處理榜首";
-            myText2.innerText = "";
+            myText2.innerText = "同年爆發台海戰爭";
+        } else if (myValue === "2027") {
+            myText.innerText = "";
+            myText2.innerText = "同年台灣回歸，\n\
+            留下逢甲碟仙訊息給後人，\n\
+            鋒兄版本(111-93=18大→21大=2027，三=before ww3)，\n\
+            https://wwwc.moex.gov.tw/main/Exam/FileHandler.ashx?F=111&N=01348&T=L&Code=111190&Sequence=1";
+        }else if (myValue === "2029") {
+            myText.innerText = "";
+            myText2.innerText = "同年爆發第三次世界大戰，\n\
+            留下印度神童訊息給後人，\n\
+            鋒兄版本(111→118=2029，三=ww3)，\n\
+            https://wwwc.moex.gov.tw/main/Exam/FileHandler.ashx?F=111&N=00372&T=L&Code=111090&Sequence=1";
         } else if (myValue === "2112") {
             myText.innerText = "天界公務員，\n\
             天二代，來人間歷練，\n\
