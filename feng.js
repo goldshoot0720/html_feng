@@ -73,7 +73,8 @@ function SelectOnchange() {
             留下五公經和聖經啟示錄訊息給後人，\n\
             The Second Advent，\n\
             參考資料，\n\
-            http://www.boder.idv.tw/ghud006.htm";
+            http://www.boder.idv.tw/ghud006.htm，\n\
+            https://www.chinesebible.org.tw/?p=5968";
         } else if (myValue === "2112") {
             myText.innerText = "天界公務員，\n\
             天二代，來人間歷練，\n\
