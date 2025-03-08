@@ -23,7 +23,10 @@ function SelectOnchange() {
             myText2.innerText = "";
         } else if (myValue === "2022") {
             myText.innerText = "2022-1911=111年，\n\
-            前一年與該年33歲";
+            前一年與該年33歲，\n\
+            1988-93=臺灣民主國，\n\
+            1988-101=福建臺灣省(定案)，\n\
+            1988-111=臺北府知府";
 	    myText2.innerText = "桃園縣立東興國民中學\n\
               第十七屆畢業紀念冊\n\
               學生數：【33】，\n\
