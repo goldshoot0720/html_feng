@@ -27,7 +27,8 @@ function SelectOnchange() {
             1988-93=臺灣民主國，\n\
             1988-101=福建臺灣省(定案)，\n\
             1988-111=臺北府知府，\n\
-            首都基輔=首輔";
+            首都基輔=首輔，\n\
+            喬治亞引導石";
 	    myText2.innerText = "桃園縣立東興國民中學\n\
               第十七屆畢業紀念冊\n\
               學生數：【33】，\n\
@@ -87,14 +88,14 @@ function SelectOnchange() {
             留下五公經和聖經啟示錄訊息給後人，\n\
             The Second Advent，海平面上升可能性不為零\n\
             參考資料：\n\
-            http://www.boder.idv.tw/ghud006.htm，\n\
+            http://www.boder.idv.tw/ghud006.htm\n\
             https://www.chinesebible.org.tw/?p=5968";
         } 
         else if (myValue === "2069") {
             myText.innerText = "世界政府，世界大同";
             myText2.innerText = "天堂人口無上限，\n\
             地獄人口無上限，\n\
-            人間人口總量管制，參考指標五億\n\
+            人間人口總量管制，參考指標五億，\n\
             請抽號碼牌，請按號碼排隊投胎";
         } 
         else if (myValue === "2112") {
